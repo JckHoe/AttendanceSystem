@@ -1,0 +1,4 @@
+Intake 3_10am - 12pm_Database Systems_2017-08-09;test;testing;Late
+Intake 3_2pm - 4pm_Java Programming_2017-08-17;test;testing;Absent With Reason
+Intake 3_4pm - 6pm_Mathematics_2017-08-30;testing;test;Attended
+Intake 2_2pm - 4pm_Database Systems_2017-09-19;cincai;cincai;Absent
